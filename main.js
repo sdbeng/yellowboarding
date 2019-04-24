@@ -1,4 +1,5 @@
 //Write a function that takes in an array of integers and the array with duplicates removed
+//tip: there are many ways, one is using array methods like .includes()
 
 Ex:
 Input: [1,2,2,3]
